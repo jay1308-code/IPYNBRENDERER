@@ -1,4 +1,4 @@
-ipynbwidgets
+ipywidgets
 notebook
 ensure
 py-youtube
@@ -7,5 +7,6 @@ py-youtube
 pytest
 tox
 black
-flask8
+flake8
 mypy
+-e .
